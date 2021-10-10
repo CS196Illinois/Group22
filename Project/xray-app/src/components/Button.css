@@ -1,0 +1,18 @@
+ button {
+    position: absolute;
+    width: 307px;
+    height: 123px;
+    top: 18em;
+    color: #FFFFFF;
+    background: #B0D8A3;
+    font-family: Dosis;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 2em;
+    line-height: 2em;
+    text-align: center;
+    align-items: center; 
+    border: 1px solid #B0D8A3;
+    border-radius: 20px;
+    left: 40%;
+ }
