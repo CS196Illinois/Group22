@@ -2,9 +2,10 @@ import "./Button.css"
 let count = 1
 function Button() {
     return (
-        <button onClick={clickMe}>
-            Upload Image
-        </button>
+       <div className="button">
+           <h1>Upload Image</h1>
+           <input type="file" accept="image/*" onChange={clickMe()}/>
+       </div>
     );
   }
   
