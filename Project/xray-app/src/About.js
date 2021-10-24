@@ -5,7 +5,7 @@ function About() {
             <header>
                 <h1>About</h1>
             </header>
-            <body>
+            <body> 
                 <p>Description goes here.</p>
             </body>
         </div>
